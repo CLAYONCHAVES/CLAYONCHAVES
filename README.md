@@ -1,7 +1,8 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/CLAYONCHAVES/e781be095bcd1dd8f69b3cc7879de073/raw/982288106304df4c3c1fded498c7954432e03e76/card.svg"/>
 
-### Olá! Eu sou o CLAYON CHAVES
+### Olá! Eu sou CLAYON CHAVES
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação.TI
+
 <div align="center">
   <a href="https://github.com/CLAYONCHAVES">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CLAYONCHAVES&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
